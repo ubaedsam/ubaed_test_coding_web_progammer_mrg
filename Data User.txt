@@ -1,0 +1,14 @@
+User Officer :
+
+email : officer@gmail.com
+password : officer123
+
+User Manager :
+
+email : manager@gmail.com
+password : manager123
+
+User Finance :
+
+email : ubaed123@gmail.com
+password : ubaed123
